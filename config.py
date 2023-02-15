@@ -5,5 +5,5 @@ keys = {
     'bitcoin': 'BTC',
     'ethereum': 'ETH',
     'dollar': 'USD',
-    'rubles': 'RUB',
+    'ruble': 'RUB',
 }
